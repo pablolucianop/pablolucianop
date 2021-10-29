@@ -15,6 +15,8 @@
   # PABLOLUCIANOP- portfolio -->
 
 
+![image]({https://img.shields.io/badge/Groovy-5E97B6?style=for-the-badge&logo=Apache%20Groovy&logoColor=white})
+
 # Development of an app that provides reports about performance of generator sets, for AERCOM.SA.
 
 
