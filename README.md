@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hello!
 
+- My last project was to build an app that analyzes performance data of generator sets and print fancy, readable reports for clients and maintenance. 
+I worked alongside an electrical technician. Making algorithms based on some of his analytical knowledge was great. ⚡⚡ 
 
-- 🔭 I’m currently working on building software for data analysing and management of ComAp. 
-- 🌳 I’m looking for work!
-- 🌱 I’m currently learning React.js
-- 📫 How to reach me: pablolucianop@gmail.com
+- **I’m looking for work!**
+
+- How to reach me: pablolucianop@gmail.com
 <!--- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,6 +16,7 @@
   # PABLOLUCIANOP- portfolio -->
 
 
+<img src="https://pablolucianop.github.io/portfolio/img/space.jpg" alt="separador" height="80">
 
 # Development of an app that provides reports about performance of generator sets, for AERCOM.SA.
 
