@@ -5,7 +5,7 @@ I worked alongside an electrical technician. Making algorithms based on some of 
 
 - **I’m looking for work!**
 
-- exploring three.js for fun.
+- Exploring three.js for fun!
 
 - How to reach me: pablolucianop@gmail.com
 
