@@ -1,6 +1,6 @@
 # Hello!
 
-- My last project was to build an app that analyzes performance data of generator sets and print fancy, readable reports for clients and maintenance. 
+- My last work was to build an app that analyzes performance data of generator sets and print fancy, readable reports for clients and maintenance. 
 I worked alongside an electrical technician. Making algorithms based on some of his analytical knowledge was great. ⚡⚡ 
 
 - **I’m looking for work!**
