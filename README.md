@@ -1,6 +1,6 @@
 # Hello!
 
-- My last work was to build an app that analyzes performance data of generator sets and print fancy, readable reports for clients and maintenance. 
+- My last work was to build an app that analyzes performance data of generator sets and print useful, readable reports for clients and maintenance. 
 I worked alongside a team of electrical engineers. Making algorithms based on some of their analytical knowledge was great. ⚡⚡ 
 
 - Exploring three.js for fun!
